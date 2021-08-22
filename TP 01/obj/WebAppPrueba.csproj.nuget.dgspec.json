@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\WebAppPrueba.csproj": {}
+    "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\TP 01\\WebAppPrueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\WebAppPrueba.csproj": {
+    "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\TP 01\\WebAppPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\WebAppPrueba.csproj",
+        "projectUniqueName": "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\TP 01\\WebAppPrueba.csproj",
         "projectName": "WebAppPrueba",
-        "projectPath": "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\WebAppPrueba.csproj",
+        "projectPath": "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\TP 01\\WebAppPrueba.csproj",
         "packagesPath": "C:\\Users\\Emilio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\obj\\",
+        "outputPath": "C:\\Users\\Emilio\\source\\repos\\TP01 Taller Lenguajes II\\TP 01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

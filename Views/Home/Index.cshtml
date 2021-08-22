@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <h4>Practica</h4>
+    <form asp-action="Practica Suma" method="post">
+        <label>Ingrese dos numeros</label>
+        <input type="text" name="a" value="" />
+        <input type="text" name="b" value="" />
+        <input type="submit" name="" value="Enviar" />
+    </form>
+    <br />
+    <h4>Problema 1 Cuadrado del numero</h4>
+    <form asp-action="Problema1" method="post">
+        <label>Ingrese un numero</label>
+        <input type="text" name="a" value="" />
+        <input type="submit" name="" value="Enviar" />
+    </form>
+
+    
+    <br />
+    <h4>Problema 2 Division entre numeros</h4>
+    <form asp-action="Problema2" method="post">
+        <label>Ingrese dos numeros para dividir</label>
+        <input type="text" name="a" value="" />
+        <input type="text" name="b" value="" />
+        <input type="submit" name="" value="Enviar" />
+    </form>
+    <br />
+    <h4>Problema 3 Listado de Provincias</h4>
+    <form asp-action="Problema3" method="post">
+        <input type="submit" name="" value="Mostrar" />
+    </form>
+    <br />
+    <h4>Problema 4 Kilometros sobre litro</h4>
+    <form asp-action="Problema4" method="post">
+        <label>Ingrese la cantidad de kilometros conducidos</label>
+        <input type="text" name="a" value="" />
+        <br />
+        <label>Ingrese la cantidad de litros usados</label>
+        <input type="text" name="b" value="" />
+        <input type="submit" name="" value="Enviar" />
+    </form>
+</div>
